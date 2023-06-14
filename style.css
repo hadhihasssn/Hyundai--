@@ -193,9 +193,6 @@ body {
     padding-left: 56px;
     padding-top: 87px;
 }
-.car3-section {
-    width: 100%;
-}
 .car3-section img {
     width: 79rem;
 }
@@ -312,12 +309,9 @@ input.same{
     
     display: flex;
     background: rgb(28, 27, 27);
-    height: 200px;
+    height: 220px;
     align-items: center;
-    padding: 10px 30px;
     justify-content: center;
-    padding-top: 10px;
-
 }
 .input-section{
     padding-bottom: 50px;
@@ -335,8 +329,6 @@ input.same{
     font-size: smaller;
     margin-left: 20px;
 }
-
-
 .img-div{
     display: flex;
     align-items: center;
@@ -354,13 +346,11 @@ input.same{
     position: relative;
     width: 50px;
     height: 50px;
-    margin-left: 96%;
-    
+    margin-left: 96%;   
 }
 .fixed-ico img{
     position: absolute;
     top: 40px;
-
 }
 
 
